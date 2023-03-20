@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React.js, Figma**
 
-- 📝 I regularly write articles on [https://mayankblogs.hashnode.dev/](https://mayankblogs.hashnode.dev/)
-
 - 📫 How to reach me **bohramayank4u@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1y1xEDpZWVA1skRJ_vXuSqXG5da_Bk4Aq/view?usp=sharing](https://drive.google.com/file/d/1y1xEDpZWVA1skRJ_vXuSqXG5da_Bk4Aq/view?usp=sharing)
