@@ -25,7 +25,3 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayankbohra&show_icons=true&locale=en" alt="mayankbohra" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankbohra&show_icons=true&locale=en&layout=compact" alt="mayankbohra" /></p>
-
-<br>
-<img align="left" alt="coding_gif" width="1000" src="https://camo.githubusercontent.com/4140f71e43d7b8e18213176e0ae193ce5af3dc5e8df01e406ec62ca408c5dca3/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966">
-<img align="left" alt="coding_gif" width="1000" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
