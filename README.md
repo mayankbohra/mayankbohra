@@ -8,13 +8,13 @@
         Have interests in Web Development.<br>
     </i>
     <br>
-    <a href="https://www.linkedin.com/in/mayank-bohra" target="blank">
+    <a href="https://www.linkedin.com/in/mayank-bohra" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.hackerrank.com/mayank_06" target="blank">
+    <a href="https://www.hackerrank.com/mayank_06" target="_blank">
         <img src="https://img.shields.io/badge/hackerrank-blue?style=flat-square&logo=hackerrank" alt="HackerRank">
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/mayank_bohra/" target="blank">
+    <a href="https://auth.geeksforgeeks.org/user/mayank_bohra/" target="_blank">
         <img src="https://img.shields.io/badge/geeksforgeeks-blue?style=flat-square&logo=geeksforgeeks" alt="geeksforgeeks">
     </a>
     <a href="https://github.com/mayankbohra">
