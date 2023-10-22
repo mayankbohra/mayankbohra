@@ -4,7 +4,7 @@
     <i>
         I'm Mayank.<br>
         Currently learning Machine Learning and Data Science.<br>
-        Have interests in Web 3.0.<br>
+        Have interests in Web 3.0<br>
     </i>
     <br>
     <a href="https://www.linkedin.com/in/mayank-bohra" target="_blank">
